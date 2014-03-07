@@ -29,7 +29,7 @@
 			<!-- Windows version. -->
 			<enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20Windows.zip"
-				fervor:version="2.0"
+				fervor:version="1.0"
 				fervor:platform="Q_OS_WIN32"
 				length="1656492"
 				type="application/octet-stream" />
@@ -37,7 +37,7 @@
 			<!-- Linux version. -->
 			<enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20Linux.zip"
-				fervor:version="2.0"
+				fervor:version="1.0"
 				fervor:platform="Q_OS_LINUX"
 				length="1618935"
 				type="application/octet-stream" />
@@ -48,7 +48,7 @@
 			 -->
 			<enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20OS%20X.zip"
-				sparkle:version="2.0"
+				sparkle:version="1.0"
 				fervor:platform="Q_OS_MAC"
 				length="1623481"
 				type="application/octet-stream"
